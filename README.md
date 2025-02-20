@@ -1,2 +1,2 @@
 # Bootcamp-DIO 
-Repositório para armazenar o conteúdo do Bootcamp de Java da DIO, separado por módulos conforme avanço.
+Repositório para armazenar meu aprendizado no Bootcamp de Java da DIO e Avanade, separado por módulos conforme avanço.
