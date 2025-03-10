@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d980a94-3333-4cf5-a2e1-c527426159b2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../2_1-SpringbootPrimeirosPassos/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_1-SpringbootPrimeirosPassos/primeiros-passos/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_1-SpringbootPrimeirosPassos/primeiros-passos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_1-SpringbootPrimeirosPassos/primeiros-passos/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_1-SpringbootPrimeirosPassos/primeiros-passos/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_1-SpringbootPrimeirosPassos/primeiros-passos/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_1-SpringbootPrimeirosPassos/primeiros-passos/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_1-SpringbootPrimeirosPassos/primeiros-passos/src/main/java/dio/springboot/Calculadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_1-SpringbootPrimeirosPassos/primeiros-passos/src/main/java/dio/springboot/MyApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_1-SpringbootPrimeirosPassos/primeiros-passos/src/main/java/dio/springboot/PrimeirosPassosApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_1-SpringbootPrimeirosPassos/primeiros-passos/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_1-SpringbootPrimeirosPassos/primeiros-passos/src/test/java/dio/springboot/PrimeirosPassosApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_2-BeansVSComponents/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_2-BeansVSComponents/.idea/2_3-BeansVSComponents.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_2-BeansVSComponents/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_2-BeansVSComponents/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_2-BeansVSComponents/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_2-BeansVSComponents/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_2-BeansVSComponents/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_2-BeansVSComponents/beans-vs-components/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_2-BeansVSComponents/beans-vs-components/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_2-BeansVSComponents/beans-vs-components/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_2-BeansVSComponents/beans-vs-components/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_2-BeansVSComponents/beans-vs-components/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_2-BeansVSComponents/beans-vs-components/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_2-BeansVSComponents/beans-vs-components/src/main/java/dio/beans_vs_components/BeansVsComponentsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_2-BeansVSComponents/beans-vs-components/src/main/java/dio/beans_vs_components/app/Beans.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_2-BeansVSComponents/beans-vs-components/src/main/java/dio/beans_vs_components/app/ConversorJson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_2-BeansVSComponents/beans-vs-components/src/main/java/dio/beans_vs_components/app/ViaCepResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_2-BeansVSComponents/beans-vs-components/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_2-BeansVSComponents/beans-vs-components/src/test/java/dio/beans_vs_components/BeansVsComponentsApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_3-SingletonVSPrototype/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_3-SingletonVSPrototype/.idea/2_3-SingletonVSPrototype.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_3-SingletonVSPrototype/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_3-SingletonVSPrototype/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_3-SingletonVSPrototype/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_3-SingletonVSPrototype/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_3-SingletonVSPrototype/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_3-SingletonVSPrototype/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_3-SingletonVSPrototype/SingletonVSPrototype/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_3-SingletonVSPrototype/SingletonVSPrototype/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_3-SingletonVSPrototype/SingletonVSPrototype/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_3-SingletonVSPrototype/SingletonVSPrototype/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_3-SingletonVSPrototype/SingletonVSPrototype/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_3-SingletonVSPrototype/SingletonVSPrototype/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_3-SingletonVSPrototype/SingletonVSPrototype/src/main/java/app/Beans.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_3-SingletonVSPrototype/SingletonVSPrototype/src/main/java/app/Remetente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_3-SingletonVSPrototype/SingletonVSPrototype/src/main/java/app/SistemaMensagem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_3-SingletonVSPrototype/SingletonVSPrototype/src/main/java/com/dio/singletonvsprototype/SingletonVsPrototypeApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_3-SingletonVSPrototype/SingletonVSPrototype/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_3-SingletonVSPrototype/SingletonVSPrototype/src/test/java/com/dio/singletonvsprototype/SingletonVsPrototypeApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_4-Properties-Value/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_4-Properties-Value/.idea/2_4-Properties-Value.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_4-Properties-Value/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_4-Properties-Value/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_4-Properties-Value/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_4-Properties-Value/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_4-Properties-Value/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_4-Properties-Value/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_4-Properties-Value/Properties-Value/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_4-Properties-Value/Properties-Value/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_4-Properties-Value/Properties-Value/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_4-Properties-Value/Properties-Value/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_4-Properties-Value/Properties-Value/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_4-Properties-Value/Properties-Value/src/main/java/com/dio/propertiesvalue/PropertiesValueApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_4-Properties-Value/Properties-Value/src/main/java/com/dio/propertiesvalue/app/SistemaMensagem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_4-Properties-Value/Properties-Value/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_4-Properties-Value/Properties-Value/src/test/java/com/dio/propertiesvalue/PropertiesValueApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_5-Configuration-Properties/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_5-Configuration-Properties/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_5-Configuration-Properties/ConfigurationProperties/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_5-Configuration-Properties/ConfigurationProperties/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_5-Configuration-Properties/ConfigurationProperties/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_5-Configuration-Properties/ConfigurationProperties/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_5-Configuration-Properties/ConfigurationProperties/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_5-Configuration-Properties/ConfigurationProperties/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_5-Configuration-Properties/ConfigurationProperties/src/main/java/com/dio/configurationproperties/ConfigurationPropertiesApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_5-Configuration-Properties/ConfigurationProperties/src/main/java/com/dio/configurationproperties/app/Remetente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_5-Configuration-Properties/ConfigurationProperties/src/main/java/com/dio/configurationproperties/app/SistemaMensagem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_5-Configuration-Properties/ConfigurationProperties/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_5-Configuration-Properties/ConfigurationProperties/src/test/java/com/dio/configurationproperties/ConfigurationPropertiesApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_6-SpringDATA-JPA/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_6-SpringDATA-JPA/.idea/2_6-SpringDATA-JPA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_6-SpringDATA-JPA/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_6-SpringDATA-JPA/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_6-SpringDATA-JPA/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_6-SpringDATA-JPA/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_6-SpringDATA-JPA/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_6-SpringDATA-JPA/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_6-SpringDATA-JPA/aula-spring-data-jpa/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_6-SpringDATA-JPA/aula-spring-data-jpa/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_6-SpringDATA-JPA/aula-spring-data-jpa/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_6-SpringDATA-JPA/aula-spring-data-jpa/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_6-SpringDATA-JPA/aula-spring-data-jpa/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_6-SpringDATA-JPA/aula-spring-data-jpa/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_6-SpringDATA-JPA/aula-spring-data-jpa/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_6-SpringDATA-JPA/aula-spring-data-jpa/src/main/java/dio/aula_spring_data_jpa/AulaSpringDataJpaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_6-SpringDATA-JPA/aula-spring-data-jpa/src/main/java/dio/aula_spring_data_jpa/StartApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_6-SpringDATA-JPA/aula-spring-data-jpa/src/main/java/dio/aula_spring_data_jpa/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_6-SpringDATA-JPA/aula-spring-data-jpa/src/main/java/dio/aula_spring_data_jpa/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_6-SpringDATA-JPA/aula-spring-data-jpa/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2_6-SpringDATA-JPA/aula-spring-data-jpa/src/test/java/dio/aula_spring_data_jpa/AulaSpringDataJpaApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2u8pik4XDbdBbWGp6PcOfZbh11K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.39" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.39" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d980a94-3333-4cf5-a2e1-c527426159b2" name="Changes" comment="" />
+      <created>1741640198277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741640198277</updated>
+      <workItem from="1741640218477" duration="439000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
