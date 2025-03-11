@@ -3,5 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/2-Modulo/2_1-SpringbootPrimeirosPassos/primeiros-passos/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/2-Modulo/2_2-BeansVSComponents/beans-vs-components/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2-Modulo/Development-APIs-Spring-Framework/3_Gerenciando-Dependencias-Maven_e_Gradle/3_1-CreatingMavenProjects/maven-project/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/2-Modulo/Development-APIs-Spring-Framework/3_Gerenciando-Dependencias-Maven_e_Gradle/3_1-CreatingMavenProjects/maven-project/src/main/resources" charset="UTF-8" />
   </component>
 </project>
