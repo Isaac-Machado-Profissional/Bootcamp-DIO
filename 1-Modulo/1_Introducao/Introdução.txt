@@ -1,0 +1,1 @@
+O curso totalizará 67 horas de puro conteúdo usando Java, Angular, Spring dentre mais conteúdos que verão abordados nesse repositório.

@@ -1,0 +1,14 @@
+Aulas teóricas a respeito de definições de internet, onde são computadores interconectados, já a WWW é um sistema construído sobre a internet utilizando o protocolo HTTP pra transmissão de dados.
+
+Front-END são aqueles que trabalham com a interface do que o cliente verá 
+
+Back-END quem trabalhará com servidores, banco de dados e sua aplicação.
+
+API é um conjunto de regras e definições, dado um contrato para que permita diferentes aplicações ou softwares e seus componentes se comuniquem entre si. 
+
+API RESTful refere-se a APIS que seguem os princípios REST(Representational State Transfer) e são baseadas em padrões HTTP e utilizada para aplicações WEB, usando métodos GET, POST, PUT e DELETE.
+
+API SOAP(Simple Object Access Protocol) é um protocolo que define os padrões de troca de mensagens baseadas em XML. 
+Encapotando e envelopando, independentemente da linguagem e plataforma de transporte.
+
+API GraphQL é uma linguagem de consulta para sua API e um servidor capaz de executar essas consultas, apenas retornando dados específicos.
