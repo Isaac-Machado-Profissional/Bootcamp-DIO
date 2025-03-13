@@ -1,0 +1,41 @@
+<!DOCTYPE module PUBLIC
+        "-//Checkstyle//DTD Checkstyle Configuration 1.3//EN"
+        "config/checkstyle/configuration_1_3.dtd">
+
+
+
+
+<module name="Checker">
+    <!-- Configurações gerais -->
+    <property name="severity" value="warning" />
+    <property name="tabWidth" value="4" />
+
+    <!-- Checagem de pacotes -->
+    <module name="JavadocPackage"/>
+
+    <!-- Validação do código -->
+    <module name="TreeWalker">
+        <!-- Evitar importações com '*' -->
+        <module name="AvoidStarImport"/>
+
+        <!-- Verifica comprimento das linhas -->
+        <module name="LineLength">
+            <property name="max" value="120"/>
+        </module>
+
+        <!-- Nomes de constantes devem estar no formato correto -->
+        <module name="ConstantName"/>
+
+        <!-- Impede blocos vazios -->
+        <module name="EmptyBlock"/>
+
+        <!-- Verifica se métodos possuem mais de 60 linhas -->
+        <module name="MethodLength">
+            <property name="max" value="60"/>
+        </module>
+
+        <!-- Garante espaçamento correto -->
+        <module name="WhitespaceAfter"/>
+        <module name="WhitespaceAround"/>
+    </module>
+</module>
