@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/4_4-JUnit.iml" filepath="$PROJECT_DIR$/.idea/4_4-JUnit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Junit/REST-Spring/REST-spring.iml" filepath="$PROJECT_DIR$/Junit/REST-Spring/REST-spring.iml" />
+    </modules>
+  </component>
+</project>
