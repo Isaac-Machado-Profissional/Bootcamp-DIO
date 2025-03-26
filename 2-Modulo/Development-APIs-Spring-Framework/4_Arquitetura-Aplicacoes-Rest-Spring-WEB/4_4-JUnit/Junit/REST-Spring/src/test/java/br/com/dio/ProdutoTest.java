@@ -1,15 +1,29 @@
 package br.com.dio;
 
-import static org.junit.jupiter.api.Assertions.assertTrue;
-
+import br.com.dio.entity.Produto;
+import br.com.dio.exception.ProductPriceException;
+import br.com.dio.service.ProdutoService;
 import org.junit.jupiter.api.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.context.SpringBootTest;
 
+
+import static org.junit.jupiter.api.Assertions.*;
+
+@SpringBootTest
 public class ProdutoTest {
 
-	@Test // Anotação pra rodar JUnit Test
-	public void testeFalso() {
+	@Autowired // Anotação pra rodar JUnit Test
+	private ProdutoService produtoService;
 
-		assertTrue(true); // assert verfiica se true
+	@Test
+	public void verificaValorNegativoNoProduto() throws Exception {
+		Produto produto = new Produto();
+
+		produto.setNome("Teste");
+		produto.setPreco(-10.0);
+
+assertThrows(ProductPriceException.class, () -> produtoService.save(produto));
 
 	}
 
