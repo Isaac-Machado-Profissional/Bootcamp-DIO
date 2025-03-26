@@ -1,0 +1,12 @@
+ 
+[submodule "4_1-endpoint/rest-spring"]
+    path = 4_1-endpoint/rest-spring
+    url = https://github.com/karantes/REST-Spring
+
+[submodule "REST-Spring"]
+    path = 4_1-Expondo-EndPoints/REST-Spring
+    url = https://github.com/karantes/REST-Spring
+
+[submodule "2-Modulo/Development-APIs-Spring-Framework/4_Arquitetura-Aplicacoes-Rest-Spring-WEB/4_1-Expondo-EndPoints/4_1-Expondo-EndPoints/REST-Spring"]
+	path = 2-Modulo/Development-APIs-Spring-Framework/4_Arquitetura-Aplicacoes-Rest-Spring-WEB/4_1-Expondo-EndPoints/4_1-Expondo-EndPoints/REST-Spring
+	url = https://github.com/karantes/REST-Spring
